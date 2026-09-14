@@ -506,3 +506,6 @@ were reviewed and implemented according to the assignment requirements.
 
 The scoring approach was kept intentionally transparent and deterministic so that every recommendation can be explained through its score breakdown.
 
+# Use of Ai 
+I used AI  to make all this readme document and writing different test cases for me.Although I required to do some changes as per my requirement because I was trying to make it more understandable
+
